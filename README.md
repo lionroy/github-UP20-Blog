@@ -21,8 +21,6 @@ _I also love the fact github is reaching out to meet non-coders, who seem to be 
 
 Without further ado, I fare thy well and hopefully soon, we shall meet (again)
 
-![code_tab](https://lab.github.com/public/images/code_tab.png)
-
 I'll meet you over there, can't wait to get started!
 
 # built with GitHub Learning Lab Repository for GitHub Pages
