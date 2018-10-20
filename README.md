@@ -1,13 +1,14 @@
 [UP20 Blog site is published at ](https://lionroy.github.io/github-UP20-Blog/)
 # Dear #UP20 Reader,
-### _UP20 is an opensource community dedicated_
-### _to expand and share social programs resources and best practice_
+### _UP20 is an opensource community dedicated to_
+### _expand and share social programs resources and best practice_
 
 
 Welcome to UP20 repository build via GitHub Learning Lab course. 
 This repository will be used during the different activities that we'll build together. 
-You can take action and join us as an equal member - Here and Now. _opensource magic_
-happens when prople contribute lines of code for everyone to use.
+You can take action and join us as an equal member - Here and Now.
+
+_opensource magic_ happens when prople contribute lines of code for everyone to use.
 UP20 brings the opensource methodology to the social field - one stop shop for NGO's,
 governments and educators around the world can collaborate and reach out for more.
 
@@ -24,4 +25,4 @@ Without further ado, I fare thy well and hopefully soon, we shall meet (again)
 
 I'll meet you over there, can't wait to get started!
 
-# built with GitHub Learning Lab Repository for GitHub Pages
+### built with GitHub Learning Lab Repository for GitHub Pages
